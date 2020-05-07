@@ -1,0 +1,10 @@
+C:\Users\toiye\source\repos\Chart\Chart\bin\Debug\Chart.exe.config
+C:\Users\toiye\source\repos\Chart\Chart\bin\Debug\Chart.exe
+C:\Users\toiye\source\repos\Chart\Chart\bin\Debug\Chart.pdb
+C:\Users\toiye\source\repos\Chart\Chart\obj\Debug\Chart.csprojAssemblyReference.cache
+C:\Users\toiye\source\repos\Chart\Chart\obj\Debug\Chart.Chart.resources
+C:\Users\toiye\source\repos\Chart\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\toiye\source\repos\Chart\Chart\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\toiye\source\repos\Chart\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\toiye\source\repos\Chart\Chart\obj\Debug\Chart.exe
+C:\Users\toiye\source\repos\Chart\Chart\obj\Debug\Chart.pdb
