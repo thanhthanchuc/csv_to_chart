@@ -1,11 +1,11 @@
 SIS ID,School SIS ID,First Name,Last Name,Username,Password,State ID,Secondary Email,Student Number,Middle Name,Grade,Status,Birthdate,Graduation Year, Math Point, Physical Point, Chemetry Point
 13001,10001,Ora,Klein,OKlein,P@ssword,WA,,13001,Christopher,9,Active,4/2/2000,2019, 10, 9, 8
-13002,10001,Beulah,McMillan,BMcMillan,P@ssword,WA,,13002,Lynn,10,Active,11/12/1999,2018, 10, 9, 8
-13003,10001,Florence,Stark,FStark,P@ssword,WA,,13003,Brian,12,Active,12/19/1997,2016, 10, 9, 8
-13004,10001,Noah,Gilbertson,NGilbertson,P@ssword,WA,,13004,Daniel,9,Active,6/20/2000,2019, 10, 9, 8
-13005,10001,Erna,Parker,EParker,P@ssword,WA,,13005,Troy,11,Active,5/17/1998,2017, 10, 9, 8
-13006,10001,Sherry,Santana,SSantana,P@ssword,WA,,13006,Thomas,10,Active,8/22/1999,2018, 10, 9, 8
-13007,10001,Ronald,Lees,RLees,P@ssword,WA,,13012,Grace,9,Active,5/11/1998,2019, 10, 9, 8
+13002,10001,Beulah,McMillan,BMcMillan,P@ssword,WA,,13002,Lynn,10,Active,11/12/1999,2018, 1, 2, 3
+13003,10001,Florence,Stark,FStark,P@ssword,WA,,13003,Brian,12,Active,12/19/1997,2016, 6, 9, 3
+13004,10001,Noah,Gilbertson,NGilbertson,P@ssword,WA,,13004,Daniel,9,Active,6/20/2000,2019, 4, 7, 2
+13005,10001,Erna,Parker,EParker,P@ssword,WA,,13005,Troy,11,Active,5/17/1998,2017, 1, 3, 6
+13006,10001,Sherry,Santana,SSantana,P@ssword,WA,,13006,Thomas,10,Active,8/22/1999,2018, 10, 4, 1
+13007,10001,Ronald,Lees,RLees,P@ssword,WA,,13012,Grace,9,Active,5/11/1998,2019, 8, 8, 8
 13008,10001,Latasha,Pratt,LPratt,P@ssword,WA,,13013,Christopher,11,Active,8/13/1999,2016, 10, 9, 8
 13009,10001,Misty,Thomas,MThomas,P@ssword,WA,,13014,Lynn,10,Active,7/6/2000,2017, 10, 9, 8
 13010,10001,Petra,Barlow,PBarlow,P@ssword,WA,,13015,Francis,9,Active,3/19/1997,2019, 10, 9, 8

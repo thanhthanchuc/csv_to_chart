@@ -85,10 +85,14 @@ namespace Chart
 
         private void Draw(Student student = null)
         {
-            student_chart.Series["Math Point"].Points.ElementAt(0).XValue = student.MathPoint;
-            student_chart.Series["Physical Point"].Points.ElementAt(0).SetValueY(student.PhysicalPoint);
-            student_chart.Series["Chemistry Point"].Points.ElementAt(0).SetValueY(student.ChemistryPoint);
-            student_chart.Refresh();
+            student_chart.Series["Math Point"].Points.Clear();
+            student_chart.Series["Math Point"].Points.Add(student.MathPoint);
+
+            student_chart.Series["Physical Point"].Points.Clear();
+            student_chart.Series["Physical Point"].Points.Add(student.PhysicalPoint);
+
+            student_chart.Series["Chemistry Point"].Points.Clear();
+            student_chart.Series["Chemistry Point"].Points.Add(student.ChemistryPoint);
         }
     }
 }
